@@ -1,0 +1,48 @@
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.Devices.Bluetooth.dll
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.dll
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.pdb
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.xml
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.Devices.Bluetooth.pdb
+C:\Users\fdnunes\Desktop\test3\WpfApp1\WpfApp1\bin\Debug\InTheHand.Devices.Bluetooth.xml
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.Devices.Bluetooth.dll
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.dll
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.Net.Personal.dll
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.pdb
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.xml
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.Devices.Bluetooth.pdb
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.Devices.Bluetooth.xml
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\bin\Debug\InTheHand.Net.Personal.xml
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Filipe\Projects\JBL Battery\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
